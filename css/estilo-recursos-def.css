@@ -92,7 +92,7 @@ header nav ul li a:hover {
 
 .item {
     text-align: center;
-    background: #efefefe0;              /*fondo blanco*/
+    background: #000000;              /*fondo blanco*/
     box-shadow: 0px 0px 30px #5601c5b6; /*sombra inferior de 10px gris*/
     border-left-style: solid;           /* estilo de borde izquierdo solido*/
     border-left-width: 8px;             /* tamaño del borde izquierdo de 5px*/
